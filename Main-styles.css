@@ -92,8 +92,7 @@
   color: #fff;
 }
 
-.Contact {
-  margin-left: 0px;
-  padding-left: 25px;
-  padding-top: 19px;
+.Contact p {
+  padding-left: 18px;
+  padding-top: 14px;
 }
