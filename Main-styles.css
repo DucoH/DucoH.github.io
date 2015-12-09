@@ -87,12 +87,13 @@
   padding-left: 5px;
   margin-bottom: 0px;
   margin-top: 0px;
-  font-size: 32px;
+  font-size: 5em;
   font-weight: bold;
   color: #fff;
 }
 
 .Contact p {
+  font-size: 3em;
   padding-left: 18px;
   padding-top: 14px;
 }
